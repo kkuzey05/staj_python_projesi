@@ -1,6 +1,6 @@
 import socket_file
 import threading
-
+#need to create objects and import all modules
 def startServerListener(client_number):
     global ERROR_MESSAGE_COUNT
     server= socket_file.server
